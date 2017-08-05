@@ -2,7 +2,7 @@
 Light Bootstrap Colors
 
 ## How to use?
-Just include to your div a class one of these:
+Just include to your div one of these classes.
 ```
 bg-primary-light
 bg-success-light
