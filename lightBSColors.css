@@ -14,3 +14,20 @@
 .bg-danger-light{
     background: #dc6460;
 }
+
+//Text colors
+.text-primary-light{
+    background: #3490df;
+}
+.text-success-light{
+    background: #6cbf6c;
+}
+.text-info-light{
+    background: #6bc6e1;
+}
+.text-warning-light{
+    background: #f1b55f;
+}
+.text-danger-light{
+    background: #dc6460;
+}
