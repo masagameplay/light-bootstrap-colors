@@ -14,3 +14,4 @@ Example:
 ```
 <div class="bg-primary-light">This is div with lightened primary color.</div>
 ```
+![Alt text](example.png)
