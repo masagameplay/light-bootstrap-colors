@@ -1,4 +1,4 @@
-# lightBSColors
+# light-bootstrap-colors
 Light Bootstrap Colors
 
 ## How to use?
